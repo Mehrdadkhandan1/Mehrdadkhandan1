@@ -30,3 +30,5 @@ Here are a few highlights of the projects I've worked on:
 - 💬 Telegram: [Mehrdad Khandan](https://t.me/Mehrdad_khandan)
 
 Thanks for stopping by!
+☕ **Let’s grab a coffee sometime, my treat!** 😄
+
