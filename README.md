@@ -18,7 +18,7 @@ I'm a passionate Frontend Developer with 2 years of experience working with **Re
 
 ### Projects
 
-Here are a few highlights of the projects I've worked on:
+Here are a one highlights of the projects I've worked on:
 
 - **Project Management** – Built with **React**.
 
