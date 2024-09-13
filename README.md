@@ -1,4 +1,5 @@
 # 👋 Hi there! I'm Mehrdad Khandan
+# ![Developer GIF](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
 
 ## About Me
 
@@ -19,7 +20,7 @@ I'm a passionate Frontend Developer with 2 years of experience working with **Re
 
 Here are a few highlights of the projects I've worked on:
 
-- **[Project 1 Name]** – A React-based e-commerce platform with server-side rendering using Next.js.
+- **[Pr]** – A React-based e-commerce platform with server-side rendering using Next.js.
 - **[Project 2 Name]** – A personal portfolio website showcasing my work, built with Next.js and styled-components.
 - **[Project 3 Name]** – A real-time chat application built with React, TypeScript, and Firebase.
 
